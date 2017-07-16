@@ -1,4 +1,4 @@
-# (AutoIPTV)[http://autoiptv.co.za]
+# [AutoIPTV](http://autoiptv.co.za)
 
 ### The best *dynamic* IPTV playlist out there!
 
