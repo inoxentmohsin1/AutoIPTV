@@ -1,4 +1,4 @@
-# [AutoIPTV](http://autoiptv.net)
+# [AutoIPTV - Watch Free IPTV World Wide](http://autoiptv.net)
 
 ### The best *dynamic* IPTV playlist out there!
 
