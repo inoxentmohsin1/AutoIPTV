@@ -9,7 +9,7 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 ## How to Install (Windows)
 
 > 1.
-> ![Capture 1](https://raw.githubusercontent.com/Rampaigh/AutoIPTV/images/Capture1.PNG)
+> ![Capture 1](https://raw.githubusercontent.com/Rampaigh/branch/AutoIPTV/images/Capture1.PNG)
 > - afsdf
 > - sdfsdf
 > - sdfsdf
