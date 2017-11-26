@@ -51,7 +51,7 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 
 > 7.
 > ![Capture 7](images/Capture6.PNG)
-> Add the following items in order:
+> Enter in the following in order:
 > - [x] TV
 > - [x] AutoIPTV
 > - [x] http://autoiptv.net/playlist.php
@@ -61,18 +61,28 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 
 > 8.
 > ![Capture 8](images/Capture7.PNG)
+> - Select the list we just added, *AutoIPTV*
+> - Click on the **Set Default List** button
 
 ----
 
 > 9.
 > ![Capture 9](images/Capture3.PNG)
+> - Select the menu again
+> - Select the **Channels** option
 
 ----
 
 > 10.
 > ![Capture 10](images/Capture8.PNG)
+> If you select one of the headers, for instance: *(AD) Andorra, (AE) United Arab Emirates, ...*, you'll be able to change the category, namely the country
 
 ----
 
 > 11.
 > ![Capture 11](images/Capture9.PNG)
+> Select whichever one you want
+
+----
+
+> PS. When you want to view a channel, click on one of the play buttons. When you want to exit that channel, double click on the screen.
