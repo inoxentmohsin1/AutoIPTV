@@ -8,7 +8,7 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 
 ## How to Install (Windows)
 
-> **1)**
+> 1.
 > ![Capture 1]()
 > - afsdf
 > - sdfsdf
