@@ -11,7 +11,7 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 > 1.
 > ![Capture 1](images/Capture1.PNG)
 > - Go to *https://www.microsoft.com/en-us/store/p/simplestream/9nblggh4qr2d*
-> - Click on *Get the app*
+> - Click on **Get the app**
 > - Click on the button that appears **Open Microsoft Store**
 
 ----
@@ -27,3 +27,52 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 > ![Capture 3](images/Capture3.PNG)
 > - Select the menu in the top left hand corner
 > - Select the **Settings** option
+
+----
+
+> 4.
+> ![Capture 4](images/Capture4.PNG)
+> - Click on the switch so that it is set to *Categories*
+
+----
+
+> 5.
+> ![Capture 5](images/Capture3.PNG)
+> - Select the menu again
+> - Select the **Channel List Management** option
+
+----
+
+> 6.
+> ![Capture 6](images/Capture5.PNG)
+> - Click on the **Add List** button
+
+----
+
+> 7.
+> ![Capture 7](images/Capture6.PNG)
+> Add the following items in order:
+> [x] TV
+> [x] AutoIPTV
+> [x] http://autoiptv.net/playlist.php
+> - Click **Save** once done
+
+----
+
+> 8.
+> ![Capture 8](images/Capture7.PNG)
+
+----
+
+> 9.
+> ![Capture 9](images/Capture3.PNG)
+
+----
+
+> 10.
+> ![Capture 10](images/Capture8.PNG)
+
+----
+
+> 11.
+> ![Capture 11](images/Capture9.PNG)
