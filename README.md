@@ -52,9 +52,9 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 > 7.
 > ![Capture 7](images/Capture6.PNG)
 > Add the following items in order:
-> [x] TV
-> [x] AutoIPTV
-> [x] http://autoiptv.net/playlist.php
+> - [x] TV
+> - [x] AutoIPTV
+> - [x] http://autoiptv.net/playlist.php
 > - Click **Save** once done
 
 ----
