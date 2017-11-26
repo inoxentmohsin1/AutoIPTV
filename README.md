@@ -14,10 +14,14 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 > - Click on *Get the app*
 > - Click on the button that appears **Open Microsoft Store**
 
+----
+
 > 2.
 > ![Capture 2](images/Capture2.PNG)
 > - Download the app from the Microsoft Store
 > - Once downloaded click on the **Launch** button
+
+----
 
 > 3.
 > ![Capture 3](images/Capture3.PNG)
