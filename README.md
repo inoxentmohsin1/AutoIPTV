@@ -10,6 +10,16 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 
 > 1.
 > ![Capture 1](images/Capture1.PNG)
-> - afsdf
-> - sdfsdf
-> - sdfsdf
+> - Go to *https://www.microsoft.com/en-us/store/p/simplestream/9nblggh4qr2d*
+> - Click on *Get the app*
+> - Click on the button that appears **Open Microsoft Store**
+
+> 2.
+> ![Capture 2](images/Capture2.PNG)
+> - Download the app from the Microsoft Store
+> - Once downloaded click on the **Launch** button
+
+> 3.
+> ![Capture 3](images/Capture3.PNG)
+> - Select the menu in the top left hand corner
+> - Select the **Settings** option
