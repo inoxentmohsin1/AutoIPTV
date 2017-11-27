@@ -85,4 +85,6 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 
 ----
 
-> PS. When you want to view a channel, click on one of the play buttons. When you want to exit that channel, double click on the screen.
+> PS. 
+> - When you want to view a channel, click on one of the play buttons. When you want to exit that channel, double click on the screen.
+> - Every hour the channels get updated, new ones added, etc. So to refresh click the **Circular** button in the top right hand corner.
