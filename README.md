@@ -2,13 +2,7 @@
 
 ----
 
-> [AutoIPTV](http://autoiptv.net)
->
-> [Today's Channels](http://autoiptv.net/pages/today)
->
-> [How to install](http://autoiptv.net/pages/setup)
->
-> [Donate](http://autoiptv.net/pages/donate)
+| [AutoIPTV](http://autoiptv.net) | [Today's Channels](http://autoiptv.net/pages/today) | [How to install](http://autoiptv.net/pages/setup) | [Donate](http://autoiptv.net/pages/donate) |
 
 ----
 
