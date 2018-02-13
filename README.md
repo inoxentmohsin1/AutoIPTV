@@ -10,7 +10,12 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 > #### Normal Playlist
 > http://autoiptv.net/playlist.php
 >
-> This playlist includes all the channels, **excluding** the adult channels. 
+> This playlist includes all the channels, **excluding** the adult channels.
+
+> #### Sport Playlist
+> http://autoiptv.net/playlistsport.php
+>
+> This playlist has all the sports channels.
 
 > #### Adult (+18) Playlist
 > http://autoiptv.net/playlistxxx.php
@@ -31,4 +36,5 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 >
 > **Compatibility**:
 > - http://autoiptv.net/playlist.php
+> - http://autoiptv.net/playlistsport.php
 > - http://autoiptv.net/playlistxml.php
