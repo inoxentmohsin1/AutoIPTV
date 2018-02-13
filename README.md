@@ -24,7 +24,7 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 >
 > **Prefered Video Addon**: [LiveStreamPro](https://kodi-addons.club/addon/plugin.video.live.streamspro/)
 
-> #### Filter by Country
+> #### Filter Country Playlist
 > http://autoiptv.net/playlist.php?c=us
 >
 > You can filter by country by adding `?c={Country Code}` to the end of the url, replacing `{Country Code}` with the country code of your choice.
