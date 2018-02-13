@@ -12,13 +12,19 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 >
 > This playlist includes all the channels, **excluding** the adult channels. 
 
-> #### Adult (+18) Playlist - http://autoiptv.net/playlistxxx.php
+> #### Adult (+18) Playlist
+> http://autoiptv.net/playlistxxx.php
 >
 > This is not for viewers under the age of 18!
 
 > #### Kodi XML Playlist
-> 
+> http://autoiptv.net/playlistxml.php
+>
+> This playlist uses the f4mTester plugin in Kodi to prevent the stream from stopping after 10 seconds.
+>
+> _Prefered Video Addon_:
 
-> #### Filter by Country - http://autoiptv.net/playlist.php?c=us
+> #### Filter by Country
+> http://autoiptv.net/playlist.php?c=us
 >
 > You can filter by country by adding `?c={Country Code}` to the end of the url, replacing `{Country Code}` with the country code of your choice.
