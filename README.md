@@ -7,13 +7,17 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 
 ## Playlists
 
-> #### Normal Playlist - http://autoiptv.net/playlist.php
+> #### Normal Playlist
+> http://autoiptv.net/playlist.php
 >
 > This playlist includes all the channels, **excluding** the adult channels. 
 
 > #### Adult (+18) Playlist - http://autoiptv.net/playlistxxx.php
 >
-> This is not for viewers under the age of 18! 
+> This is not for viewers under the age of 18!
+
+> #### Kodi XML Playlist
+> 
 
 > #### Filter by Country - http://autoiptv.net/playlist.php?c=us
 >
