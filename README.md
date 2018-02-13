@@ -22,9 +22,13 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 >
 > This playlist uses the f4mTester plugin in Kodi to prevent the stream from stopping after 10 seconds.
 >
-> <u>Prefered Video Addon</u>:
+> **Prefered Video Addon**: [LiveStreamPro](https://kodi-addons.club/addon/plugin.video.live.streamspro/)
 
 > #### Filter by Country
 > http://autoiptv.net/playlist.php?c=us
 >
 > You can filter by country by adding `?c={Country Code}` to the end of the url, replacing `{Country Code}` with the country code of your choice.
+>
+> **Compatibility**:
+> - http://autoiptv.net/playlist.php
+> - http://autoiptv.net/playlistxml.php
