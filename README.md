@@ -42,4 +42,5 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 > **Compatibility**:
 > - http://autoiptv.net/playlist.php
 > - http://autoiptv.net/playlistsport.php
+> - http://autoiptv.net/playlistnews.php
 > - http://autoiptv.net/playlistxml.php
