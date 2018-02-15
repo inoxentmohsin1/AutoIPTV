@@ -1,6 +1,6 @@
 # [AutoIPTV](http://autoiptv.net) - Watch Free IPTV World Wide
 
-| [AutoIPTV](http://autoiptv.net) | [Today's Channels](http://autoiptv.net/pages/today) | [Playlists](http://autoiptv.net/pages/playlists) | [How to install](http://autoiptv.net/pages/setup) | [Donate](http://autoiptv.net/pages/donate) |
+| [AutoIPTV](http://autoiptv.net) | [Popular Channels](http://autoiptv.net/pages/popular) | [Playlists](http://autoiptv.net/pages/playlists) | [How to install](http://autoiptv.net/pages/setup) | [Donate](http://autoiptv.net/pages/donate) |
 | ---- | ---- | ---- | ---- | ---- |
 
 Watch live TV channels from across the world as the playlist gets updated on a daily basis, as well as throughout the day the number of channels increase. It will find new and working links and add them to the playlist automatically for you to enjoy. AutoIPTV provides dynamic content with a static URL, thus making it possible to use the same URL for any device on the market.
@@ -22,7 +22,12 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 >
 > This playlist has all the news channels.
 
-> #### Adult (+18) Playlist
+> #### Kids Playlist
+> http://autoiptv.net/playlistnews.php
+>
+> This playlist has all the channels appropriate for children and family.
+
+> #### Adult Playlist
 > http://autoiptv.net/playlistxxx.php
 >
 > This is not for viewers under the age of 18!
@@ -43,4 +48,5 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 > - http://autoiptv.net/playlist.php
 > - http://autoiptv.net/playlistsport.php
 > - http://autoiptv.net/playlistnews.php
+> - http://autoiptv.net/playlistkids.php
 > - http://autoiptv.net/playlistxml.php
