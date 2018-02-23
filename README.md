@@ -17,6 +17,11 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 >
 > This playlist has all the sports channels.
 
+> #### Music Playlist
+> https://autoiptv.net/playlistmusic.php
+>
+> This playlist has all the music channels.
+
 > #### News Playlist
 > https://autoiptv.net/playlistnews.php
 >
