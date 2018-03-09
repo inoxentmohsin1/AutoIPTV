@@ -47,4 +47,4 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 
 ## Attention
 
-> Non of the streams/videos are hosted on this website. All content is copyright of their respective owners. Copyright owners, links contained within this site lead to content located elsewhere on the web. Please direct all copyright infringement issues to the companies that host these files. All M3U and XML channels list available can be easily found on the internet. All links contained are located elsewhere on the web.
+Non of the streams/videos are hosted on this website. All content is copyright of their respective owners. Copyright owners, links contained within this site lead to content located elsewhere on the web. Please direct all copyright infringement issues to the companies that host these files. All M3U and XML channels list available can be easily found on the internet. All links contained are located elsewhere on the web.
