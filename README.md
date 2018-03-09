@@ -41,7 +41,7 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 >
 > **Prefered Video Addon**: [LiveStreamPro](https://kodi-addons.club/addon/plugin.video.live.streamspro/)
 >
-> **Install LiveStreamPro**: [How to Install](https://autoiptv.net/pages/setup/#kodi)
+> **[How to Install LiveStreamPro](https://autoiptv.net/pages/setup/#kodi)**
 
 > #### [Filter by Country Playlist](https://autoiptv.net/pages/playlists/#country)
 
