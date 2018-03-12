@@ -15,6 +15,9 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 > #### Sport Playlist
 > [https://autoiptv.net/playlistsport.php](https://autoiptv.net/pages/playlists/#sport)
 
+> #### Movie Playlist
+> [https://autoiptv.net/playlistmovie.php](https://autoiptv.net/pages/playlists/#movie)
+
 > #### Adult Playlist
 > [https://autoiptv.net/playlistxxx.php](https://autoiptv.net/pages/playlists/#adult)
 >
