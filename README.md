@@ -8,37 +8,37 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 ## Playlists
 
 > #### Normal Playlist
-> [https://autoiptv.net/playlist.php](https://autoiptv.net/pages/playlists/#normal)
+> [https://playlist.autoiptv.net/normal.php](https://autoiptv.net/pages/playlists/#normal)
 >
 > This playlist includes all the channels, **excluding** the adult channels.
 
 > #### Sport Playlist
-> [https://autoiptv.net/playlistsport.php](https://autoiptv.net/pages/playlists/#sport)
+> [https://playlist.autoiptv.net/sport.php](https://autoiptv.net/pages/playlists/#sport)
 
 > #### Movie Playlist
-> [https://autoiptv.net/playlistmovie.php](https://autoiptv.net/pages/playlists/#movie)
+> [https://playlist.autoiptv.net/movie.php](https://autoiptv.net/pages/playlists/#movie)
 
 > #### Adult Playlist
-> [https://autoiptv.net/playlistxxx.php](https://autoiptv.net/pages/playlists/#adult)
+> [https://playlist.autoiptv.net/adult.php](https://autoiptv.net/pages/playlists/#adult)
 >
 > This is not for viewers under the age of 18!
 
 > #### News Playlist
-> [https://autoiptv.net/playlistnews.php](https://autoiptv.net/pages/playlists/#news)
+> [https://playlist.autoiptv.net/news.php](https://autoiptv.net/pages/playlists/#news)
 
 > #### Kids Playlist
-> [https://autoiptv.net/playlistnews.php](https://autoiptv.net/pages/playlists/#kids)
+> [https://playlist.autoiptv.net/kids.php](https://autoiptv.net/pages/playlists/#kids)
 >
 > This playlist has all the channels appropriate for **children** and **family**.
 
 > #### Music Playlist
-> [https://autoiptv.net/playlistmusic.php](https://autoiptv.net/pages/playlists/#music)
+> [https://playlist.autoiptv.net/music.php](https://autoiptv.net/pages/playlists/#music)
 
 > #### Radio Playlist
-> [https://autoiptv.net/playlistradio.php](https://autoiptv.net/pages/playlists/#radio)
+> [https://playlist.autoiptv.net/radio.php](https://autoiptv.net/pages/playlists/#radio)
 
 > #### Kodi XML Playlist
-> [https://autoiptv.net/playlistxml.php](https://autoiptv.net/pages/playlists/#kodi)
+> [https://playlist.autoiptv.net/xml.php](https://autoiptv.net/pages/playlists/#kodi)
 >
 > This playlist uses the f4mTester plugin in Kodi to prevent the stream from stopping after 10 seconds.
 >
