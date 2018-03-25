@@ -1,7 +1,7 @@
 # [AutoIPTV](https://autoiptv.net) - Watch Free IPTV World Wide
 
-| [AutoIPTV](https://autoiptv.net) | [Playlists](https://autoiptv.net/pages/playlists) | [Contribute](https://autoiptv.net/pages/contribute) | [Statistics](https://autoiptv.net/pages/statistics) | [Donate](https://autoiptv.net/pages/donate) | [How to install](https://autoiptv.net/pages/setup) |
-| ---- | ---- | ---- | ---- | ---- | ---- |
+| [AutoIPTV](https://autoiptv.net) | [Playlists](https://autoiptv.net/pages/playlists) | [Video On Demand](https://autoiptv.net/pages/vod) | [Contribute](https://autoiptv.net/pages/contribute) | [Statistics](https://autoiptv.net/pages/statistics) | [Donate](https://autoiptv.net/pages/donate) | [How to install](https://autoiptv.net/pages/setup) |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 
 Watch live TV channels from across the world as the playlist gets updated on a daily basis, as well as throughout the day the number of channels increase. It will find new and working links and add them to the playlist automatically for you to enjoy. AutoIPTV provides dynamic content with a static URL, thus making it possible to use the same URL for any device on the market.
 
@@ -47,6 +47,21 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 > **[How to Install LiveStreamPro](https://autoiptv.net/pages/setup/#kodi)**
 
 > #### [Filter by Country Playlist](https://autoiptv.net/pages/playlists/#country)
+
+## Video On Demand
+
+> #### Normal VOD
+> [https://vod.autoiptv.net/normal.php](https://autoiptv.net/pages/vod/#normal)
+>
+> This VOD playlist includes all the videos, **excluding** the adult content.
+
+> #### Adult VOD
+> [https://vod.autoiptv.net/adult.php](https://autoiptv.net/pages/vod/#adult)
+>
+> This is not for viewers under the age of 18!
+
+> #### Kodi XML VOD
+> [https://vod.autoiptv.net/xml.php](https://autoiptv.net/pages/vod/#xml)
 
 ## Attention
 
