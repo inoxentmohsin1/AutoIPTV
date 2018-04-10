@@ -70,8 +70,6 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 
 > #### [Filter by Country Playlist](https://autoiptv.net/pages/playlists/#country)
 
-----
-
 ## Attention
 
 **All playlist URL's can use both `https` or `http` protocals**
