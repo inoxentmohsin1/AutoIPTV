@@ -17,7 +17,7 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 > #### Movie Playlist
 > [https://playlist.autoiptv.net/movie.php](https://autoiptv.net/pages/playlists/#movie)
 >
-> Video On Demand content included
+> **Video On Demand content included**
 
 ----
 
@@ -31,7 +31,7 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 >
 > This is not for viewers under the age of 18!
 >
-> Video On Demand content included
+> **Video On Demand content included**
 
 ----
 
