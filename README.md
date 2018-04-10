@@ -5,6 +5,8 @@
 
 Watch live TV channels from across the world as the playlist gets updated on a daily basis, as well as throughout the day the number of channels increase. It will find new and working links and add them to the playlist automatically for you to enjoy. AutoIPTV provides dynamic content with a static URL, thus making it possible to use the same URL for any device on the market.
 
+----
+
 ## Playlists
 
 > #### Normal Playlist
@@ -33,19 +35,29 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 >
 > Video On Demand content included
 
+----
+
 > #### Music Playlist
 > [https://playlist.autoiptv.net/music.php](https://autoiptv.net/pages/playlists/#music)
+
+----
 
 > #### Kids Playlist
 > [https://playlist.autoiptv.net/kids.php](https://autoiptv.net/pages/playlists/#kids)
 >
 > This playlist has all the channels appropriate for **children** and **family**.
 
+----
+
 > #### News Playlist
 > [https://playlist.autoiptv.net/news.php](https://autoiptv.net/pages/playlists/#news)
 
+----
+
 > #### 24/7 Playlist
 > [https://playlist.autoiptv.net/247.php](https://autoiptv.net/pages/playlists/#247)
+
+----
 
 > #### Kodi XML Playlist
 > [https://playlist.autoiptv.net/xml.php](https://autoiptv.net/pages/playlists/#kodi)
@@ -56,9 +68,15 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 >
 > **[How to Install LiveStreamPro](https://autoiptv.net/pages/setup/#kodi)**
 
+----
+
 > #### [Filter by Country Playlist](https://autoiptv.net/pages/playlists/#country)
 
+----
+
 > All playlist URL's can use both `https` or `http` protocals
+
+----
 
 ## Attention
 
