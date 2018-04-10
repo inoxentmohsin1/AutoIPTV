@@ -12,13 +12,19 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 >
 > This playlist includes all the channels, **excluding** the adult channels.
 
+----
+
 > #### Movie Playlist
 > [https://playlist.autoiptv.net/movie.php](https://autoiptv.net/pages/playlists/#movie)
 >
 > Video On Demand content included
 
+----
+
 > #### Sport Playlist
 > [https://playlist.autoiptv.net/sport.php](https://autoiptv.net/pages/playlists/#sport)
+
+----
 
 > #### Adult Playlist
 > [https://playlist.autoiptv.net/adult.php](https://autoiptv.net/pages/playlists/#adult)
