@@ -6,6 +6,7 @@
 Watch live TV channels from across the world as the playlist gets updated on a daily basis, as well as throughout the day the number of channels increase. It will find new and working links and add them to the playlist automatically for you to enjoy. AutoIPTV provides dynamic content with a static URL, thus making it possible to use the same URL for any device on the market.
 
 By donating you help to keep AutoIPTV **FREE**!
+
 https://paypal.me/Rampaigh
 
 ## Playlists
@@ -72,6 +73,8 @@ https://paypal.me/Rampaigh
 ----
 
 > #### [Filter by Country Playlist](https://autoiptv.net/pages/playlists/#country)
+
+<img id="paypal" class="pointer" width="200" src="https://autoiptv.net/images/PayPal.png" onclick="window.open('https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=rampaigh@gmail.com&amp;item_name=Donation&amp;item_number=AutoIPTV&amp;currency_code=USD')">
 
 ## Attention
 
