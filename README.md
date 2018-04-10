@@ -7,7 +7,9 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 
 > ## By donating you help to keep AutoIPTV **FREE**!
 >
-> https://paypal.me/Rampaigh
+> [PayPal Me](https://paypal.me/Rampaigh)
+>
+> OR
 >
 > <img id="paypal" class="pointer" width="200" src="https://autoiptv.net/images/PayPal.png" onclick="window.open('https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=rampaigh@gmail.com&amp;item_name=Donation&amp;item_number=AutoIPTV&amp;currency_code=USD')">
 
