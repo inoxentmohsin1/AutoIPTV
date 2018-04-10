@@ -72,7 +72,7 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 
 ----
 
-> All playlist URL's can use both `https` or `http` protocals
+> ##### All playlist URL's can use both `https` or `http` protocals
 
 ----
 
