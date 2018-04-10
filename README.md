@@ -1,7 +1,7 @@
 # [AutoIPTV](https://autoiptv.net) - Watch Free IPTV World Wide
 
 | [AutoIPTV](https://autoiptv.net) | [Playlists](https://autoiptv.net/pages/playlists) | [Contribute](https://autoiptv.net/pages/contribute) | [Statistics](https://autoiptv.net/pages/statistics) | [Donate](https://autoiptv.net/pages/donate) | [How to install](https://autoiptv.net/pages/setup) |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- | ---- | ---- |
 
 Watch live TV channels from across the world as the playlist gets updated on a daily basis, as well as throughout the day the number of channels increase. It will find new and working links and add them to the playlist automatically for you to enjoy. AutoIPTV provides dynamic content with a static URL, thus making it possible to use the same URL for any device on the market.
 
@@ -24,6 +24,7 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 > [https://playlist.autoiptv.net/adult.php](https://autoiptv.net/pages/playlists/#adult)
 >
 > This is not for viewers under the age of 18!
+>
 > Video On Demand content included
 
 > #### Music Playlist
