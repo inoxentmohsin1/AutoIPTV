@@ -1,6 +1,6 @@
 # [AutoIPTV](https://autoiptv.net) - Watch Free IPTV World Wide
 
-| [AutoIPTV](https://autoiptv.net) | [Playlists](https://autoiptv.net/pages/playlists) | [Contribute](https://autoiptv.net/pages/contribute) | [Statistics](https://autoiptv.net/pages/statistics) | [How to install](https://autoiptv.net) |
+| [AutoIPTV](https://autoiptv.net) | [Playlists](https://autoiptv.net/pages/playlists) | [Contribute](https://autoiptv.net/pages/contribute) | [Statistics](https://autoiptv.net/pages/statistics) | [How to install](https://autoiptv.net/#vlc) |
 | ---- | ---- | ---- | ---- | ---- |
 
 Watch live TV channels from across the world as the playlist gets updated on a daily basis, as well as throughout the day the number of channels increase. It will find new and working links and add them to the playlist automatically for you to enjoy. AutoIPTV provides dynamic content with a static URL, thus making it possible to use the same URL for any device on the market.
@@ -16,26 +16,26 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 ## Playlists
 
 > #### Normal Playlist
-> [https://playlist.autoiptv.net/normal.php](https://autoiptv.net/pages/playlists)
+> [https://playlist.autoiptv.net/normal.php](https://autoiptv.net/pages/playlists/#normal)
 >
 > This playlist includes all the channels, **excluding** the adult channels.
 
 ----
 
 > #### Movie Playlist
-> [https://playlist.autoiptv.net/movie.php](https://autoiptv.net/pages/playlists)
+> [https://playlist.autoiptv.net/movie.php](https://autoiptv.net/pages/playlists/#movie)
 >
 > **Video On Demand content included**
 
 ----
 
 > #### Sport Playlist
-> [https://playlist.autoiptv.net/sport.php](https://autoiptv.net/pages/playlists)
+> [https://playlist.autoiptv.net/sport.php](https://autoiptv.net/pages/playlists/#sport)
 
 ----
 
 > #### Adult Playlist
-> [https://playlist.autoiptv.net/adult.php](https://autoiptv.net/pages/playlists)
+> [https://playlist.autoiptv.net/adult.php](https://autoiptv.net/pages/playlists/#adult)
 >
 > This is not for viewers under the age of 18!
 >
@@ -44,29 +44,29 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 ----
 
 > #### Music Playlist
-> [https://playlist.autoiptv.net/music.php](https://autoiptv.net/pages/playlists)
+> [https://playlist.autoiptv.net/music.php](https://autoiptv.net/pages/playlists/#music)
 
 ----
 
 > #### Kids Playlist
-> [https://playlist.autoiptv.net/kids.php](https://autoiptv.net/pages/playlists)
+> [https://playlist.autoiptv.net/kids.php](https://autoiptv.net/pages/playlists/#kids)
 >
 > This playlist has all the channels appropriate for **children** and **family**.
 
 ----
 
 > #### News Playlist
-> [https://playlist.autoiptv.net/news.php](https://autoiptv.net/pages/playlists)
+> [https://playlist.autoiptv.net/news.php](https://autoiptv.net/pages/playlists/#news)
 
 ----
 
 > #### 24/7 Playlist
-> [https://playlist.autoiptv.net/247.php](https://autoiptv.net/pages/playlists)
+> [https://playlist.autoiptv.net/247.php](https://autoiptv.net/pages/playlists/#247)
 
 ----
 
 > #### Kodi XML Playlist
-> [https://playlist.autoiptv.net/xml.php](https://autoiptv.net/pages/playlists)
+> [https://playlist.autoiptv.net/xml.php](https://autoiptv.net/pages/playlists/#xml)
 >
 > This playlist uses the f4mTester plugin in Kodi to prevent the stream from stopping after 10 seconds.
 >
@@ -74,7 +74,7 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 
 ----
 
-> #### [Filter by Country Playlist](https://autoiptv.net/pages/playlists)
+> #### [Filter by Country Playlist](https://autoiptv.net/pages/playlists/#country)
 
 ## Attention
 
