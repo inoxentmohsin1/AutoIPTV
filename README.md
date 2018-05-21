@@ -22,14 +22,16 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 > #### Normal Playlist
 > [http://playlist.autoiptv.net/normal.php](https://autoiptv.net/pages/playlists/#normal)
 >
-> This playlist includes all the channels, **excluding** the adult channels.
+> +	Includes all channels & countries
+>
+> -	Excludes adult content
 
 ----
 
 > #### Movie Playlist
 > [http://playlist.autoiptv.net/movie.php](https://autoiptv.net/pages/playlists/#movie)
 >
-> **Video On Demand content included**
+> Includes Video On Demand
 
 ----
 
@@ -41,9 +43,9 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 > #### Adult Playlist
 > [http://playlist.autoiptv.net/adult.php](https://autoiptv.net/pages/playlists/#adult)
 >
-> This is not for viewers under the age of 18!
+> +	Viewers must be 18 years or older of age
 >
-> **Video On Demand content included**
+> +	Includes Video On Demand
 
 ----
 
@@ -55,12 +57,23 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 > #### Kids Playlist
 > [http://playlist.autoiptv.net/kids.php](https://autoiptv.net/pages/playlists/#kids)
 >
-> This playlist has all the channels appropriate for **children** and **family**.
+> +	Appropriate for children and family viewing
+>
+> -	Excludes adult content
 
 ----
 
 > #### News Playlist
 > [http://playlist.autoiptv.net/news.php](https://autoiptv.net/pages/playlists/#news)
+
+----
+
+> #### Faith Playlist
+> [http://playlist.autoiptv.net/faith.php](https://autoiptv.net/pages/playlists/#faith)
+>
+> +	All the religious channels
+>
+> -	Excludes adult content
 
 ----
 
@@ -72,9 +85,9 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 > #### Kodi XML Playlist
 > [http://playlist.autoiptv.net/xml.php](https://autoiptv.net/pages/playlists/#xml)
 >
-> This playlist uses the f4mTester plugin in Kodi to prevent the stream from stopping after 10 seconds.
+> +	Creates an XML formatted file
 >
-> **Prefered Video Addon**: [LiveStreamPro](https://kodi-addons.club/addon/plugin.video.live.streamspro/)
+> -	Excludes adult content
 
 ----
 
