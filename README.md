@@ -25,6 +25,8 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 > +	Includes all channels & countries
 >
 > -	Excludes adult content
+>
+> Auto Logo: [http://playlist.autoiptv.net/normal.php?title=epg](https://autoiptv.net/pages/playlists/#normal)
 
 ----
 
@@ -32,11 +34,15 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 > [http://playlist.autoiptv.net/movie.php](https://autoiptv.net/pages/playlists/#movie)
 >
 > Includes Video On Demand
+>
+> Auto Logo: [http://playlist.autoiptv.net/movie.php?title=epg](https://autoiptv.net/pages/playlists/#movie)
 
 ----
 
 > #### Sport Playlist
 > [http://playlist.autoiptv.net/sport.php](https://autoiptv.net/pages/playlists/#sport)
+>
+> Auto Logo: [http://playlist.autoiptv.net/sport.php?title=epg](https://autoiptv.net/pages/playlists/#sport)
 
 ----
 
@@ -46,11 +52,15 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 > +	Viewers must be 18 years or older of age
 >
 > +	Includes Video On Demand
+>
+> Auto Logo: [http://playlist.autoiptv.net/adult.php?title=epg](https://autoiptv.net/pages/playlists/#adult)
 
 ----
 
 > #### Music Playlist
 > [http://playlist.autoiptv.net/music.php](https://autoiptv.net/pages/playlists/#music)
+>
+> Auto Logo: [http://playlist.autoiptv.net/music.php?title=epg](https://autoiptv.net/pages/playlists/#music)
 
 ----
 
@@ -60,11 +70,15 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 > +	Appropriate for children and family viewing
 >
 > -	Excludes adult content
+>
+> Auto Logo: [http://playlist.autoiptv.net/kids.php?title=epg](https://autoiptv.net/pages/playlists/#kids)
 
 ----
 
 > #### News Playlist
 > [http://playlist.autoiptv.net/news.php](https://autoiptv.net/pages/playlists/#news)
+>
+> Auto Logo: [http://playlist.autoiptv.net/news.php?title=epg](https://autoiptv.net/pages/playlists/#news)
 
 ----
 
@@ -74,11 +88,15 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 > +	All the religious channels
 >
 > -	Excludes adult content
+>
+> Auto Logo: [http://playlist.autoiptv.net/faith.php?title=epg](https://autoiptv.net/pages/playlists/#faith)
 
 ----
 
 > #### 24/7 Playlist
 > [http://playlist.autoiptv.net/247.php](https://autoiptv.net/pages/playlists/#247)
+>
+> Auto Logo: [http://playlist.autoiptv.net/247.php?title=epg](https://autoiptv.net/pages/playlists/#247)
 
 ----
 
@@ -88,6 +106,8 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 > +	Creates an XML formatted file
 >
 > -	Excludes adult content
+>
+> Auto Logo: [http://playlist.autoiptv.net/xml.php?title=epg](https://autoiptv.net/pages/playlists/#xml)
 
 ----
 
