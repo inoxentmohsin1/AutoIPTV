@@ -1,7 +1,7 @@
 # [AutoIPTV](https://autoiptv.net) - Watch Free IPTV World Wide
 
-| [AutoIPTV](https://autoiptv.net) | [Playlists](https://autoiptv.net/pages/playlists) | [Contribute](https://autoiptv.net/pages/contribute) | [Statistics](https://autoiptv.net/pages/statistics) | [How to install](https://autoiptv.net/#vlc) |
-| ---- | ---- | ---- | ---- | ---- |
+| [AutoIPTV](https://autoiptv.net) | [Playlists](https://autoiptv.net/playlists) | [Contribute](https://autoiptv.net/contribute) | [How to install](https://autoiptv.net/#vlc) |
+| ---- | ---- | ---- | ---- |
 
 Watch live TV channels from across the world as the playlist gets updated on a daily basis, as well as throughout the day the number of channels increase. It will find new and working links and add them to the playlist automatically for you to enjoy. AutoIPTV provides dynamic content with a static URL, thus making it possible to use the same URL for any device on the market.
 
@@ -20,98 +20,98 @@ Watch live TV channels from across the world as the playlist gets updated on a d
 ## Playlists
 
 > #### Normal Playlist
-> [http://playlist.autoiptv.net/normal.php](https://autoiptv.net/pages/playlists/#normal)
+> [http://playlist.autoiptv.net/normal.php](https://autoiptv.net/playlists/#normal)
 >
 > +	Includes all channels & countries
 >
 > -	Excludes adult content
 >
-> Auto Logo: [http://playlist.autoiptv.net/normal.php?title=epg](https://autoiptv.net/pages/playlists/#normal)
+> Auto Logo: [http://playlist.autoiptv.net/normal.php?title=epg](https://autoiptv.net/playlists/#normal)
 
 ----
 
 > #### Movie Playlist
-> [http://playlist.autoiptv.net/movie.php](https://autoiptv.net/pages/playlists/#movie)
+> [http://playlist.autoiptv.net/movie.php](https://autoiptv.net/playlists/#movie)
 >
 > Includes Video On Demand
 >
-> Auto Logo: [http://playlist.autoiptv.net/movie.php?title=epg](https://autoiptv.net/pages/playlists/#movie)
+> Auto Logo: [http://playlist.autoiptv.net/movie.php?title=epg](https://autoiptv.net/playlists/#movie)
 
 ----
 
 > #### Sport Playlist
-> [http://playlist.autoiptv.net/sport.php](https://autoiptv.net/pages/playlists/#sport)
+> [http://playlist.autoiptv.net/sport.php](https://autoiptv.net/playlists/#sport)
 >
-> Auto Logo: [http://playlist.autoiptv.net/sport.php?title=epg](https://autoiptv.net/pages/playlists/#sport)
+> Auto Logo: [http://playlist.autoiptv.net/sport.php?title=epg](https://autoiptv.net/playlists/#sport)
 
 ----
 
 > #### Adult Playlist
-> [http://playlist.autoiptv.net/adult.php](https://autoiptv.net/pages/playlists/#adult)
+> [http://playlist.autoiptv.net/adult.php](https://autoiptv.net/playlists/#adult)
 >
 > +	Viewers must be 18 years or older of age
 >
 > +	Includes Video On Demand
 >
-> Auto Logo: [http://playlist.autoiptv.net/adult.php?title=epg](https://autoiptv.net/pages/playlists/#adult)
+> Auto Logo: [http://playlist.autoiptv.net/adult.php?title=epg](https://autoiptv.net/playlists/#adult)
 
 ----
 
 > #### Music Playlist
-> [http://playlist.autoiptv.net/music.php](https://autoiptv.net/pages/playlists/#music)
+> [http://playlist.autoiptv.net/music.php](https://autoiptv.net/playlists/#music)
 >
-> Auto Logo: [http://playlist.autoiptv.net/music.php?title=epg](https://autoiptv.net/pages/playlists/#music)
+> Auto Logo: [http://playlist.autoiptv.net/music.php?title=epg](https://autoiptv.net/playlists/#music)
 
 ----
 
 > #### Kids Playlist
-> [http://playlist.autoiptv.net/kids.php](https://autoiptv.net/pages/playlists/#kids)
+> [http://playlist.autoiptv.net/kids.php](https://autoiptv.net/playlists/#kids)
 >
 > +	Appropriate for children and family viewing
 >
 > -	Excludes adult content
 >
-> Auto Logo: [http://playlist.autoiptv.net/kids.php?title=epg](https://autoiptv.net/pages/playlists/#kids)
+> Auto Logo: [http://playlist.autoiptv.net/kids.php?title=epg](https://autoiptv.net/playlists/#kids)
 
 ----
 
 > #### News Playlist
-> [http://playlist.autoiptv.net/news.php](https://autoiptv.net/pages/playlists/#news)
+> [http://playlist.autoiptv.net/news.php](https://autoiptv.net/playlists/#news)
 >
-> Auto Logo: [http://playlist.autoiptv.net/news.php?title=epg](https://autoiptv.net/pages/playlists/#news)
+> Auto Logo: [http://playlist.autoiptv.net/news.php?title=epg](https://autoiptv.net/playlists/#news)
 
 ----
 
 > #### Faith Playlist
-> [http://playlist.autoiptv.net/faith.php](https://autoiptv.net/pages/playlists/#faith)
+> [http://playlist.autoiptv.net/faith.php](https://autoiptv.net/playlists/#faith)
 >
 > +	All the religious channels
 >
 > -	Excludes adult content
 >
-> Auto Logo: [http://playlist.autoiptv.net/faith.php?title=epg](https://autoiptv.net/pages/playlists/#faith)
+> Auto Logo: [http://playlist.autoiptv.net/faith.php?title=epg](https://autoiptv.net/playlists/#faith)
 
 ----
 
 > #### 24/7 Playlist
-> [http://playlist.autoiptv.net/247.php](https://autoiptv.net/pages/playlists/#247)
+> [http://playlist.autoiptv.net/247.php](https://autoiptv.net/playlists/#247)
 >
-> Auto Logo: [http://playlist.autoiptv.net/247.php?title=epg](https://autoiptv.net/pages/playlists/#247)
+> Auto Logo: [http://playlist.autoiptv.net/247.php?title=epg](https://autoiptv.net/playlists/#247)
 
 ----
 
 > #### Kodi XML Playlist
-> [http://playlist.autoiptv.net/xml.php](https://autoiptv.net/pages/playlists/#xml)
+> [http://playlist.autoiptv.net/xml.php](https://autoiptv.net/playlists/#xml)
 >
 > +	Creates an XML formatted file
 >
 > -	Excludes adult content
 >
-> Auto Logo: [http://playlist.autoiptv.net/xml.php?title=epg](https://autoiptv.net/pages/playlists/#xml)
+> Auto Logo: [http://playlist.autoiptv.net/xml.php?title=epg](https://autoiptv.net/playlists/#xml)
 
 ----
 
-> #### [Filter by Country Playlist](https://autoiptv.net/pages/playlists/#country)
+> #### [Filter by Country Playlist](https://autoiptv.net/playlists/#country)
 
 ## Attention
 
